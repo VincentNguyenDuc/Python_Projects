@@ -47,6 +47,8 @@ def find_shortest_path(vehicle: Vehicle, from_city: City, to_city: City) -> Trip
             shortest_trip.add_next_city(city)
         # return the trip
         return shortest_trip
+    else: 
+        return None
 
 
 if __name__ == "__main__":
