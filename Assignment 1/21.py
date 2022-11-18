@@ -1,12 +1,3 @@
-"""
-Group name: Group 3 - Applied Class 09
-Authors:
-- Duc Thanh Vinh Nguyen - ID: 32952260
-- Yusong Zhou - ID: 31024092
-- Yung Do Do Tang - ID: 32201710
-- Joshua Chua Han Wei - ID: 32781555
-"""
-
 import time
 import random
 
